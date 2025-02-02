@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj",
+        "projectName": "ReverseProxy.Client",
+        "projectPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj",
+        "packagesPath": "/Users/tungpcco/.nuget/packages/",
+        "outputPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tungpcco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj": {
+                "projectPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/tungpcco/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj",
+        "projectName": "ReverseProxy.Common",
+        "projectPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj",
+        "packagesPath": "/Users/tungpcco/.nuget/packages/",
+        "outputPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tungpcco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[3.2.46, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/tungpcco/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

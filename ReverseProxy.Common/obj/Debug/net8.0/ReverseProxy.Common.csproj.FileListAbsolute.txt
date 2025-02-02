@@ -1,0 +1,12 @@
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/bin/Debug/net8.0/ReverseProxy.Common.deps.json
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/bin/Debug/net8.0/ReverseProxy.Common.dll
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/bin/Debug/net8.0/ReverseProxy.Common.pdb
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/ReverseProxy.Common.csproj.AssemblyReference.cache
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/ReverseProxy.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/ReverseProxy.Common.AssemblyInfoInputs.cache
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/ReverseProxy.Common.AssemblyInfo.cs
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/ReverseProxy.Common.csproj.CoreCompileInputs.cache
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/ReverseProxy.Common.dll
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/refint/ReverseProxy.Common.dll
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/ReverseProxy.Common.pdb
+/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/Debug/net8.0/ref/ReverseProxy.Common.dll
