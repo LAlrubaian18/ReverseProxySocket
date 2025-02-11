@@ -1,15 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2ALXOB2MUrE=",
+  "dgSpecHash": "BMrTLs2CeBA=",
   "success": true,
-  "projectFilePath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj",
+  "projectFilePath": "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Client\\ReverseProxy.Client.csproj",
   "expectedPackageFiles": [
-    "/Users/tungpcco/.nuget/packages/protobuf-net/3.2.46/protobuf-net.3.2.46.nupkg.sha512",
-    "/Users/tungpcco/.nuget/packages/protobuf-net.core/3.2.46/protobuf-net.core.3.2.46.nupkg.sha512",
-    "/Users/tungpcco/.nuget/packages/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg.sha512",
-    "/Users/tungpcco/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/tungpcco/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/tungpcco/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+    "C:\\Users\\Nguyen Hoang Tung\\.nuget\\packages\\protobuf-net\\3.2.46\\protobuf-net.3.2.46.nupkg.sha512",
+    "C:\\Users\\Nguyen Hoang Tung\\.nuget\\packages\\protobuf-net.core\\3.2.46\\protobuf-net.core.3.2.46.nupkg.sha512",
+    "C:\\Users\\Nguyen Hoang Tung\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

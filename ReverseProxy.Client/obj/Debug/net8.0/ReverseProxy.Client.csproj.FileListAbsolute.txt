@@ -18,3 +18,44 @@
 /Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/obj/Debug/net8.0/ReverseProxy.Client.pdb
 /Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/obj/Debug/net8.0/ReverseProxy.Client.genruntimeconfig.cache
 /Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/obj/Debug/net8.0/ref/ReverseProxy.Client.dll
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.exe
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.deps.json
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.runtimeconfig.json
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.dll
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.pdb
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\protobuf-net.dll
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\protobuf-net.Core.dll
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Common.dll
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Common.pdb
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.csproj.AssemblyReference.cache
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.AssemblyInfoInputs.cache
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.AssemblyInfo.cs
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseP.649EE8BB.Up2Date
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.dll
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\refint\ReverseProxy.Client.dll
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.pdb
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.genruntimeconfig.cache
+C:\Users\Nguyen Hoang Tung\Desktop\ReverseProxySocket-main\ReverseProxy.Client\obj\Debug\net8.0\ref\ReverseProxy.Client.dll
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.exe
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.deps.json
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.runtimeconfig.json
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.dll
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Client.pdb
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\protobuf-net.dll
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\protobuf-net.Core.dll
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Common.dll
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\bin\Debug\net8.0\ReverseProxy.Common.pdb
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.csproj.AssemblyReference.cache
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.AssemblyInfoInputs.cache
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.AssemblyInfo.cs
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.csproj.CoreCompileInputs.cache
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.sourcelink.json
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseP.649EE8BB.Up2Date
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.dll
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\refint\ReverseProxy.Client.dll
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.pdb
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ReverseProxy.Client.genruntimeconfig.cache
+D:\PROJECT\ReverseProxySocket\ReverseProxy.Client\obj\Debug\net8.0\ref\ReverseProxy.Client.dll

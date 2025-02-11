@@ -22,7 +22,7 @@ namespace ReverseProxy.Client.Networking
     private readonly CancellationTokenSource _clientCts;
     private readonly SemaphoreSlim _connectionLock;
     private const int BUFFER_SIZE = 65536; // 64KB
-    private const int TIMEOUT_MS = 10000;  // 10 seconds timeout
+    private const int TIMEOUT_MS = 720000;  // 10 seconds timeout
 
     public ProxyClient(int connectionId, string target, int port)
     {

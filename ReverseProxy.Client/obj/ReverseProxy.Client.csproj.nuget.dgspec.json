@@ -1,33 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj": {}
+    "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Client\\ReverseProxy.Client.csproj": {}
   },
   "projects": {
-    "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj": {
+    "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Client\\ReverseProxy.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj",
+        "projectUniqueName": "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Client\\ReverseProxy.Client.csproj",
         "projectName": "ReverseProxy.Client",
-        "projectPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/ReverseProxy.Client.csproj",
-        "packagesPath": "/Users/tungpcco/.nuget/packages/",
-        "outputPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Client/obj/",
+        "projectPath": "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Client\\ReverseProxy.Client.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Hoang Tung\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/tungpcco/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Nguyen Hoang Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj": {
-                "projectPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj"
+              "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Common\\ReverseProxy.Common.csproj": {
+                "projectPath": "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Common\\ReverseProxy.Common.csproj"
               }
             }
           }
@@ -40,7 +47,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -58,45 +65,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/tungpcco/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj": {
+    "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Common\\ReverseProxy.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj",
+        "projectUniqueName": "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Common\\ReverseProxy.Common.csproj",
         "projectName": "ReverseProxy.Common",
-        "projectPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/ReverseProxy.Common.csproj",
-        "packagesPath": "/Users/tungpcco/.nuget/packages/",
-        "outputPath": "/Users/tungpcco/Desktop/NewProxy/ReverseProxy.Common/obj/",
+        "projectPath": "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Common\\ReverseProxy.Common.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Hoang Tung\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECT\\ReverseProxySocket\\ReverseProxy.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/tungpcco/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Nguyen Hoang Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -113,7 +113,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -137,22 +137,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/tungpcco/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

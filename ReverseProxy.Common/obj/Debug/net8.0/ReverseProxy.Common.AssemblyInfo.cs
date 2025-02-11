@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReverseProxy.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03127c6b4730cf78a0c76fd367756944b62eb9b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReverseProxy.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReverseProxy.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
